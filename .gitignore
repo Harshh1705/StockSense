@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Environment
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Byte-compiled files
+*.pyc
+
+# Other
+*.sqlite3
+*.db
